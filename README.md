@@ -67,19 +67,6 @@ Este proyecto realiza un Análisis Exploratorio de Datos (EDA) sobre el dataset 
 * Presencia de valores atípicos en múltiples variables
 * Distribuciones no normales en varias características
 
----
-
-## Próximos Pasos
-
-* Escalado de variables (StandardScaler)
-* Manejo del desbalance (SMOTE o class weights)
-* Entrenamiento de modelos de machine learning:
-
-  * Regresión Logística
-  * Random Forest
-  * XGBoost
-
----
 
 ## Tecnologías Utilizadas
 
