@@ -8,9 +8,9 @@ Este proyecto realiza un Análisis Exploratorio de Datos (EDA) sobre el dataset 
 
 ## Dataset
 
-* Fuente: UCI Machine Learning Repository
+* Fuente: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
 * Nombre: Wine Quality (Vino Tinto)
-* Número de registros: 1,599 (antes de limpieza)
+* Número de registros: 1,143 (antes de limpieza)
 * Variables: Propiedades fisicoquímicas del vino
 * Variable objetivo: `quality` (puntaje entero de 0 a 10)
 
